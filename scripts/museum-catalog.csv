@@ -1,0 +1,51 @@
+package_name,date_added,status,curator_note,quirk_1,quirk_2
+adb-wifi,2025-05-16 17:12:01,does its job too well to notice,A CLI tool which shows QR code and makes seamless connection to the ADB bridge,installs but prints ASCII art first,builds with bash 2.05 only
+adb-wifi-git,2025-05-16 17:12:01,does its job too well to notice,A CLI tool which shows QR code and makes seamless connection to the ADB bridge,installs but prints ASCII art first,used in a forgotten distro
+adhocspot-script-git,2025-05-16 17:12:01,"was critical, once","Bash script to easily configure your interface to share your internet connection and configure a DHCP and DNS and TFTP boot server to listen on it. IP, DHCP, DNS can be configured, and for WiFi interfaces also wireless mode and encryption.",has no uninstall option by design,makes systemd cry
+aic8800-dkms,2025-05-16 17:12:01,"was critical, once",Kernel modules for BrosTrend AX300 WiFi 6,builds with bash 2.05 only,depends on a font no one uses
+aic8800d80-dkms,2025-05-16 17:12:01,"was critical, once",Kernel modules for WIFI AX900 8800d80 / Tenda,leaves files in /tmp forever,has no uninstall option by design
+aircrack-ng-git,2025-05-16 17:12:01,"was critical, once",WiFi security auditing tools suite,was last updated via dial-up,used in a forgotten distro
+airgorah,2025-05-16 17:12:01,"was critical, once",A WiFi security auditing software mainly based on aircrack-ng tools suite,used in a forgotten distro,depends on a font no one uses
+airgorah-bin,2025-05-16 17:12:01,"was critical, once",A WiFi auditing software that can perform deauth attacks and passwords cracking.(Prebuilt version),installs but prints ASCII art first,leaves files in /tmp forever
+authpuppy,2025-05-16 17:12:01,"was critical, once",A new implementation of the authentication server for Wifidog networks.,has no uninstall option by design,makes systemd cry
+automattermostatus,2025-05-16 17:12:01,"was critical, once",A mattermost custom status automation tool based on available wifi SSID,requires X11 even if headless,leaves files in /tmp forever
+brcm4354-firmware,2025-05-16 17:12:01,"was critical, once",Firmware for AM7256/BRCM4354 WIFI/BT module,leaves files in /tmp forever,depends on a font no one uses
+brother-dcp-j515w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J515W wifi multifuncional printer,was last updated via dial-up,requires X11 even if headless
+brother-dcp-t426w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-T426W wifi multifuncional printer,builds with bash 2.05 only,used in a forgotten distro
+brother-dcpj132w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-j132w wifi multifuncional printer,used in a forgotten distro,installs but prints ASCII art first
+brother-dcpj140w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-j140w wifi multifuncional printer,leaves files in /tmp forever,has no uninstall option by design
+brother-dcpj152w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-j152w wifi multifuncional printer,installs but prints ASCII art first,was last updated via dial-up
+brother-dcpj315w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J315W wifi multifuncional printer,used in a forgotten distro,makes systemd cry
+brother-dcpj4110dw,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J4110DW wifi multifuncional printer,depends on a font no one uses,logs everything to stderr... encrypted
+brother-dcpj4120dw,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J4120DW wifi multifuncional printer,has no uninstall option by design,installs but prints ASCII art first
+brother-dcpj525w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J525W wifi multifuncional printer,leaves files in /tmp forever,makes systemd cry
+brother-dcpj552dw,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J552DW wifi multifuncional printer,makes systemd cry,builds with bash 2.05 only
+brother-dcpj562dw,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J562DW wifi multifunctional printer,installs but prints ASCII art first,leaves files in /tmp forever
+brother-dcpj572dw,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J772DW wifi multifunctional printer,has no uninstall option by design,makes systemd cry
+brother-dcpj785dw,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J785DW wifi/usb multifunctional printer,logs everything to stderr... encrypted,leaves files in /tmp forever
+brother-dcpj925dw,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J925DW wifi multifuncional printer,requires X11 even if headless,depends on a font no one uses
+brother-dcpj963n,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J963N wifi multifuncional printer,depends on a font no one uses,has no uninstall option by design
+brother-dcpj968n,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J968N wifi multifuncional printer,builds with bash 2.05 only,leaves files in /tmp forever
+brother-dcpj972n,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J972N wifi multifuncional printer,installs but prints ASCII art first,requires X11 even if headless
+brother-dcpj973n,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-J973N wifi multifuncional printer,depends on a font no one uses,was last updated via dial-up
+brother-dcpt420w,2025-05-16 17:12:01,"was critical, once","Driver for the Brother DCP-T420W wifi multifuncional printer, modified from Chiwan Park's DCP-T520W pack.",requires X11 even if headless,makes systemd cry
+brother-dcpt500w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-T500W wifi multifuncional printer,logs everything to stderr... encrypted,builds with bash 2.05 only
+brother-dcpt510w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-T510W wifi multifuncional printer,makes systemd cry,depends on a font no one uses
+brother-dcpt520w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-T520W wifi multifuncional printer,makes systemd cry,installs but prints ASCII art first
+brother-dcpt700w,2025-05-16 17:12:01,"was critical, once",Driver for the Brother DCP-T700W wifi multifuncional printer,installs but prints ASCII art first,makes systemd cry
+brother-mfcj245,2025-05-16 17:12:01,"was critical, once",Driver for the Brother MFC-j245 wifi multifuncional printer,installs but prints ASCII art first,leaves files in /tmp forever
+cdwifi,2025-05-16 17:12:01,"was critical, once",Simple login script for public wifi in ČD trains,builds with bash 2.05 only,requires X11 even if headless
+chwifi-git,2025-05-16 17:12:01,"was critical, once",network profile manager for wireless networks with rolling password systems,logs everything to stderr... encrypted,builds with bash 2.05 only
+configure-wifi-git,2025-05-16 17:12:01,"was critical, once",A user friendly wireless network selection menu that configures wpa_supplicant and systemd-networkd,builds with bash 2.05 only,requires X11 even if headless
+connmaster,2025-05-16 17:12:01,"was critical, once",ConnWifiMaster is a graphical application designed for Arch Linux systems that use ConnMan for network management. Developed with GTK in C.,makes systemd cry,builds with bash 2.05 only
+connmaster-cli,2025-05-16 17:12:01,"was critical, once",ConnWifiMaster is a CLI version designed for Arch Linux systems that use ConnMan for network management.,used in a forgotten distro,installs but prints ASCII art first
+connmaster-py,2025-05-16 17:12:01,"was critical, once",ConnWifiMaster is a Python / PyQT5 app - designed for Arch Linux systems that use ConnMan for network management.,depends on a font no one uses,builds with bash 2.05 only
+db-wifi-login,2025-05-16 17:12:01,"was critical, once",Captive portal login script for WIFIonICE/ WLAN@DB public WiFi by Deutsche Bahn.,makes systemd cry,was last updated via dial-up
+db-wifi-login-woice-compat,2025-05-16 17:12:01,"was critical, once",Makes 'db-wifi-login' a drop-in replacement for '/usr/bin/woice' by providing an appropriate symlink.,installs but prints ASCII art first,has no uninstall option by design
+dell-venue-8-pro-5830-wifi-firmware,2025-05-16 17:12:01,"was critical, once",Firmware for the AR6004 WiFi controller in Dell Venue 8 Pro (5830 series) tablets,leaves files in /tmp forever,depends on a font no one uses
+dino-brick,2025-05-16 17:12:01,"was critical, once",Chrome's no-wifi dino game lazily ported to the terminal,leaves files in /tmp forever,was last updated via dial-up
+dracut-network-manager-wireless-iwlwifi-ath9k,2025-05-16 17:12:01,"was critical, once",A custom dracut module for initializing Wi-Fi connections during the early boot process.,depends on a font no one uses,installs but prints ASCII art first
+dsmidiwifi,2025-05-16 17:12:01,mystery utility; origin unknown,DSMI Server,has no uninstall option by design,builds with bash 2.05 only
+dsmidiwifi-cli,2025-05-16 17:12:01,mystery utility; origin unknown,DSMI Server with GUI Removed,installs but prints ASCII art first,leaves files in /tmp forever
+easy-deauth,2025-05-16 17:12:01,"was critical, once",Send deauth packages to your favourite devices on your private WiFi network.,makes systemd cry,leaves files in /tmp forever
+easyroam-desktop-bin,2025-05-16 17:12:01,"was critical, once",Manage and install your easyroam wifi profiles,leaves files in /tmp forever,builds with bash 2.05 only
