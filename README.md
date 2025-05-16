@@ -1,2 +1,2 @@
 # reaur
-A static archive of deprecated, cursed, and context-rich AUR packages. Not maintained. Intentionally remembered...
+2785219 (Initial commit of the digital reliquary)
